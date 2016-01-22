@@ -4,3 +4,4 @@ vazne
 dev2
 pridal 5 na git-velde
 mergeing
+p5ed p5id8n9m
