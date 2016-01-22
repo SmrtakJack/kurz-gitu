@@ -5,4 +5,5 @@ dev2
 pridal 5 na git-velde
 mergeing
 p5ed p5id8n9m
-1test
+1test 5 6 8 7
+5
