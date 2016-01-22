@@ -3,3 +3,4 @@ no snad to chapu
 vazne
 dev2
 pridal 5 na git-velde
+mergeing
